@@ -1,4 +1,4 @@
 [submodule "stream-machine"]
 	path = stream-machine
 	url = git@github.com:lofi-apartment/stream-machine.git
-	branch = 0.0.81
+	branch = 0
