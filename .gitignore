@@ -5,6 +5,7 @@
 .env
 .spotdl
 **/*.spotdl
+.lofigenerator/
 playlists/**/*.wav
 playlists/**/*.mp3
 playlists/**/*.mp4
