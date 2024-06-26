@@ -1,3 +1,10 @@
 .DS_Store
 .vscode/
 .idea/
+
+.env
+.spotdl
+**/*.spotdl
+playlists/**/*.wav
+playlists/**/*.mp3
+playlists/**/*.mp4
